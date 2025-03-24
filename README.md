@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KunzeWang/KunzeWang/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 KunzeWang/KunzeWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
